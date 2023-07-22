@@ -8,10 +8,12 @@ Accountant figma designs into react
 ![screencapture-file-C-Users-usman-OneDrive-Desktop-My-Work-Internship-Task1-2-contact-html-2023-07-22-18_27_40](https://github.com/usmanqamar123/Accountant/assets/138962365/2a08a0b9-a234-451f-830c-42b2803dad7e)
 
 
-#Overview
+# Overview
+
 This GitHub repository contains the code for the development of a website using HTML, CSS, JavaScript, and React.js. The website is based on the design provided in Figma, and it consists of three main pages: Home, About Us, and Contact.
 
-#Table of Contents
+# Table of Contents
+
 Overview
 Features
 Technologies Used
@@ -22,7 +24,8 @@ Contributing
 
 
 
-#Features
+# Features
+
 Responsive layout to ensure compatibility across different devices.
 Interactive components and smooth animations using React.js.
 Easy-to-navigate pages, including Home, About Us, and Contact.
@@ -38,18 +41,18 @@ Clone this repository to your local machine using:
 
 
 
-#cd your-repo
+# cd your-repo
 Install the required dependencies:
 
-#npm install
+# npm install
 Usage
 To view the website locally, run the development server using the following command:
 
 
-#npm start
+# npm start
 This will launch the website in your default web browser at http://localhost:3000.
 
-#Folder Structure
+# Folder Structure
 lua
 Copy code
 |-- public/
@@ -60,7 +63,8 @@ Copy code
     |-- index.js
 |-- package.json
 |-- README.md
-Contributing
+
+# Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open a new issue or submit a pull request.
 
 
