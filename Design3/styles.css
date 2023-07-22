@@ -1,0 +1,211 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: #fff;
+    font-family: 'poppins' , sans-serif;
+    color: black;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+
+.banner-image{
+
+    color: rgb(223, 223, 138);
+}
+
+.banner-text{
+
+    margin-right: 100px;
+    margin-top: -400px;
+    font-size: 30px;
+    font-weight: 500px;
+    color:rgb(9, 9, 9);
+    text-align: center;
+    
+}
+
+.banner-text span{
+
+    color: gold;
+
+}
+
+/* Styles for the email form container */
+.email-form {
+    display: flex;
+    max-width: 400px;
+    margin: 0 auto;
+    
+  }
+  
+  /* Styles for the email input */
+  .email-input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-size: 16px;
+  }
+  
+  /* Styles for the invite button */
+  .invite-button {
+    background-color: gold;
+    color: white;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  /* Hover effect for the button */
+  .invite-button:hover {
+    background-color: #45a049;
+  }
+  
+
+  .step{
+
+    font-weight: 500px;
+    font-size: 40px;
+    margin: 250px 0;
+    text-align: center;
+  }
+
+  .steps-section{
+
+    margin: -200px 60px; 
+  }
+
+  .steps{
+
+    display:flex;
+    list-style: none;
+    text-align: center;
+    text-justify: auto;
+    gap: 10px;
+    padding: 10px;
+  }
+
+  .steps h3 {
+
+    margin-top: 20px;
+  }
+
+  .steps p{
+
+    margin-top: 20px;
+  }
+
+  #refer{
+    color: blue;
+  }
+
+  #signup{
+
+    color: rgb(123, 210, 239);
+  }
+
+  #enroll{
+
+    color: gold;
+  }
+
+  .container{
+
+    display: flex;
+    padding: 10px;
+    margin: 250px 20px;
+  }
+
+  .last-image{
+
+    margin-left: 30px;
+    margin-right: 150px;
+  
+  }
+
+  .form-text{
+
+    margin: 10px;
+    font-size: 30px;
+
+
+  }
+
+  .form-text p{
+
+    margin-top: 10px;
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .form-container{
+
+    margin-top: 10px;
+  }
+
+  .form{
+
+    border-radius: 20px;
+  }
+
+  .signup-button{
+
+    margin: 10px 20px;
+    border-radius: 50px;
+   background-color: gold;
+    color: black;
+    text-align: center;
+    align-items: center;
+    border-style: none;
+    align-items: center;
+    color: #fffffff1;
+
+    padding: 20px 150px;
+  }
+
+
+  .form-input{
+
+    width: 100px; /* Adjust the width as needed */
+  height: 15px; /* Adjust the height as needed */
+  border: 2px solid #ccc; /* Adjust the border properties as needed */
+  border-radius: 50px; /* Adjust the border-radius to change the shape */
+  padding: 15px 150px; /* Adjust the padding to control the internal spacing */
+  font-size: 15px; /* Adjust the font size as needed */
+  margin-top: 10px;
+  }
+
+  .form-input-first{
+    width: 100px; /* Adjust the width as needed */
+    height: 15px; /* Adjust the height as needed */
+    border: 2px solid #ccc; /* Adjust the border properties as needed */
+    border-radius: 50px; /* Adjust the border-radius to change the shape */
+    padding: 15px 40px; /* Adjust the padding to control the internal spacing */
+    font-size: 15px; /* Adjust the font size as needed */
+    margin-top: 10px;
+
+
+  }
+
+  .form-input-last{
+    width: 100px; /* Adjust the width as needed */
+    height: 15px; /* Adjust the height as needed */
+    border: 2px solid #ccc; /* Adjust the border properties as needed */
+    border-radius: 50px; /* Adjust the border-radius to change the shape */
+    padding: 15px 40px; /* Adjust the padding to control the internal spacing */
+    font-size: 15px; /* Adjust the font size as needed */
+    margin-top: 10px;
+
+
+  }
+
