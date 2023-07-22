@@ -1,0 +1,180 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: #fff;
+    font-family: 'poppins' , sans-serif;
+    color: black;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+.banner-image img{
+
+    width: 100%;
+  height: 500px;
+  /* display: block; */
+}
+
+.banner-text{
+
+    margin-left: 100px;
+    margin-top: -400px;
+    font-size: 25px;
+    font-weight: 500px;
+    color: rgba(4, 59, 106, 0.781);
+}
+
+.banner-button a{
+
+
+    color: #fff;
+    background-color: rgb(10, 188, 253);
+    margin-left: 100px;
+    margin-top: 20px;
+    padding: 10px 10px;
+    display: inline-block;
+    text-decoration: none;
+    border-style: solid;
+    border-color: rgb(10, 188, 253) ;
+}
+
+/* Apply styles to the two-column container */
+.two-column-container {
+    display: flex;
+    
+
+  }
+  
+  /* Apply styles to each column */
+  .column {
+   
+  }
+  
+
+.para-left h1{
+    color:rgba(1, 26, 48, 0.781);
+    font-size: 45px;
+    font-weight: 500;
+    margin-left: 100px;
+    margin-top: 350px;
+    padding-right: 300px;
+}
+
+.para-left p{
+    color: black;
+    margin-left: 100px ;
+    padding-top: 10px;
+    padding-right: 300px;
+    
+}
+
+.contact-box{
+  /* Light blue color */
+    /* margin-top: 400px; */
+   padding: 0px;
+    
+   
+}
+
+.contact-box h1{
+     
+    color: rgb(6, 176, 255);
+
+    margin-right: 200px;
+    margin-top: 350px;
+    padding-right: 30px;
+   
+    
+    /* margin-right: 100px; */
+    /* align-content: flex-end; */
+
+
+}
+
+.contact-box h1 span{
+    font-size: 50px;
+    font-weight: 150px;
+
+}
+
+
+.contact-box h1 .off{
+    font-size: 30px;
+    font-weight: 100px;
+    margin-left: 10px;
+
+}
+
+.contact-box h3{
+    color:  rgb(6, 176, 255);
+    font-size:25px;
+    margin-left: -15px;
+}
+
+.contact-box{
+    /* background-color: rgba(1, 26, 48, 0.781) ; */
+    padding: -30px;
+
+}
+
+.form{
+
+    padding-top: 20px;
+    
+}
+
+.submit{
+
+    color: #fff;
+    background-color: rgb(6, 176, 255);
+    padding: 10px 35px;
+    margin-left: 25px;
+    border: none;
+    font-size: 20px;
+}
+
+/* Flexbox styles */
+.three-container {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    margin-top: 100;
+  } 
+  
+  .three-container li {
+     flex: 1 0 50px; /*Each item takes equal space with a maximum width of 200px */
+    text-align: center;
+    margin: 10px;
+    margin-top: 100px;
+    padding-left: 50px;
+  }
+  
+  /* Adjust the following styles as needed */
+  .three-container img {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .three-container strong {
+    display: block;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 30px;
+    margin-left: -100px;
+
+  }
+  
+  .three-container p {
+    font-size: 16px;
+    padding: 5px 0;
+    margin-left: -100px;
+  }
+  
+ 
